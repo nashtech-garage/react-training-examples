@@ -1,0 +1,7 @@
+.has-error input.form-control {
+   border-color: red !important;
+}
+
+.has-error input.form-control:focus {
+   border-color: red !important;
+}

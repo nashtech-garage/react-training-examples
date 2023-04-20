@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+
+}
+
+.left {
+  display: flex;
+  align-self: flex-start;
+}
+
+.right {
+  display: flex;
+  align-self: flex-start;
+}
+
+.middle {
+  display: flex;
+  align-self: center;
+}
